@@ -39,8 +39,7 @@ p {
 body { 
   height: 100vh;
   display: grid;
-  place-items: center;
-  background: #000;
+  place-items: center; 
 }
 
 .container {
