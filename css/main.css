@@ -91,3 +91,9 @@ body {
     opacity: 0;
   }
 }
+
+
+.button-more{
+  border: 1px powderblue solid;
+  color: wheat;
+}
