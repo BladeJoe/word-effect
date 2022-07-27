@@ -88,7 +88,7 @@ body {
 
   50%,
   80% {
-    filter: blur(180px);
+    filter: blur(100px);
     opacity: 0;
   }
 }
